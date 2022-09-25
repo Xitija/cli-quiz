@@ -10,5 +10,5 @@ To run this app
 
 Alternatively you can check this [Repl Link](https://replit.com/@xitija/cli-quiz?embed=true)
 
-![Screenshot](screenshot.PNG?raw=true)
+![Screenshot](mark1.png?raw=true)
 
