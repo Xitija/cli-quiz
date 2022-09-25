@@ -8,3 +8,7 @@ To run this app
 2. Run `npm i` in the project folder 
 3. Now run `node index.js` in the project folder
 
+Alternatively you can check this [Repl Link](https://replit.com/@xitija/cli-quiz?embed=true)
+
+![Screenshot](screenshot.PNG?raw=true)
+
